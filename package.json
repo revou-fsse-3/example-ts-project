@@ -1,0 +1,19 @@
+{
+  "name": "week-7-muhammad-avicena",
+  "version": "1.0.0",
+  "description": "Learning TypeScript and Backend Node",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "tsc && node build/index.js"
+  },
+  "author": "Muhammad-Avicena",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^3.0.1",
+    "tailwindcss": "^3.3.3"
+  },
+  "dependencies": {
+    "sweetalert2": "^11.7.20"
+  }
+}
